@@ -1,0 +1,13 @@
+input[type=number]::-webkit-inner-spin-button { 
+    -webkit-appearance: none;
+};
+input[type=number] { 
+    -moz-appearance: textfield;
+    appearance: textfield;
+};
+#hero {
+    background-image: url(assets/consertel-bg.png);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
